@@ -1,5 +1,5 @@
 Voici une image de la représentation de la fonction dessinant le mot "MATHS":
-![alt text](https://github.com/JulienHuang51/JulienHuang51/blob/main/MATHS.png?raw=true)
+![MATHS.png](https://github.com/JulienHuang51/MATHS/blob/main/MATHS.png?raw=true)
 Notons que les différentes fonctions utilisés dans l'expression mathématique des fonctions dessinant les lettres sont elles aussi des fonctions mathématiques qui ont été définies ailleurs afin de rendre l'écriture plus lisible.
 De plus: abs(x) = |x| et sign(x) = |x|/x (pour x ∈ ℝ*)
 
